@@ -14,5 +14,3 @@ If you don't see an issue relevant to you, create one based off of one of the te
 
 ## Solved Internal Bugs
 This list contains recently-fixed bugs that were found through internal testing. These fixes will be released in the next version of KnokKnok:
-
-- "Share KnokKnok" sheet failed to alert user that sharing was successful
